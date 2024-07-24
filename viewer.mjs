@@ -720,7 +720,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   cMapUrl: {
-    value: "../web/cmaps/",
+    value: "/ressource/source_pdfjs/pdfjs/cmaps/",
     kind: OptionKind.API
   },
   disableAutoFetch: {
@@ -772,7 +772,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   standardFontDataUrl: {
-    value: "../web/standard_fonts/",
+    value: "/resource/source_pdfjs/pdfjs/standard_fonts/",
     kind: OptionKind.API
   },
   verbosity: {
