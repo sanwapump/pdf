@@ -1,22 +1,13 @@
-General Definition
+Copyright 2012 Mozilla Foundation
 
-	1.	Noun:
-	•	A central point, pin, or shaft on which a mechanism turns or oscillates. Example: “The hinge of the door works as a pivot.”
-	•	A key person or thing in a situation, organization, or system. Example: “She is the pivot of the company’s marketing strategy.”
-	2.	Verb:
-	•	To turn or rotate, like on a pivot. Example: “The dancer pivoted gracefully on one foot.”
-	•	To change direction or focus in response to new circumstances. Example: “The company decided to pivot to a new business model after facing declining sales.”
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Business Context
+    http://www.apache.org/licenses/LICENSE-2.0
 
-In business, a “pivot” often refers to a significant shift in strategy to test a new approach regarding a product or service after the original plan did not bring expected results. Example: “After the initial launch failed to attract users, the startup pivoted to focus on a different market.”
-
-Sports Context
-
-In sports, particularly basketball, a “pivot” refers to a movement where a player keeps one foot stationary while moving the other to change direction. Example: “He used a quick pivot to evade the defender.”
-
-Technology and Data Analysis
-
-In data analysis, a “pivot table” is a data summarization tool found in data visualization programs such as spreadsheets or business intelligence software. It allows users to reorganize and summarize selected columns and rows of data to obtain a desired report. Example: “She used a pivot table to analyze the sales data from different regions.”
-
-Overall, the concept of a pivot generally involves a central point or change in direction.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
