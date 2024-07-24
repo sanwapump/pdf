@@ -790,7 +790,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "404error.pdf",
+    value: "/servlet/servlet.FileDownload?file=015BK000000BSXF",
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
