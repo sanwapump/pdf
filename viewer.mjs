@@ -720,7 +720,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   cMapUrl: {
-    value: "/ressource/source_pdfjs/pdfjs/cmaps/",
+    value: "/resource/source_pdfjs/pdfjs/cmaps/",
     kind: OptionKind.API
   },
   disableAutoFetch: {
