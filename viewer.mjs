@@ -790,7 +790,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "https://cdn.jsdelivr.net/gh/sanwapump/pdf/pdfs/404error.pdf",
+    value: "404error.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
