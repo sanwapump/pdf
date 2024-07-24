@@ -790,7 +790,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "/servlet/servlet.FileDownload?file=015BK000000BSXF",
+    value: "/servlet/servlet.FileDownload?file=015BK000000BSXF#zoom=page-fit",
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
