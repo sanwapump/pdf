@@ -784,7 +784,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "https://cdn.jsdelivr.net/gh/sanwapump/pdf/pdf.worker.mjs",
+    value: "https://cdn.jsdelivr.net/gh/sanwapump/pdf@v2.4/pdf.worker.mjs",
     kind: OptionKind.WORKER
   }
 };
